@@ -62,6 +62,7 @@ describe('index', () => {
   })
 
   describe('fetch functions', () => {
+    "use strict";
     let fetchSpy
     before(() => {
       window.fetch = require('node-fetch')
