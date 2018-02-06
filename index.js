@@ -46,5 +46,3 @@ function getToken() {
   //back to '' before committing so all tests pass
   return ''
 }
-
-//df4cf3f0670dc771072155ab07cb29861274d5e4
